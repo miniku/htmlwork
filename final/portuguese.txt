@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link type="text/css" rel="stylesheet" href="../styles/style.css" />
+</head>
+
+<body>
+<p><a href="lds/lds.html">Religion</a> | <a href="school/school.html">School</a> | <a href="index.html">Home</a> | <a href="music.html">Music</a> | <a href="portuguese.html">Portuguese</a> | <a href="soccer.html">Soccer</a> | <a href="computers.html">Computers</a>
+</p>
+
+<h1>Portuguese</h1>
+<p><em>The following text will be in portuguese</em></p>
+<p>Eu fiz uma missao no Brasil.  Viajei no Rio de Janeiro e tambem no Espirito Santo.  Gostei muito do Brasil e pretendo voltar um dia.</p>
+
+<p><img src="images/pimpolio.JPG" alt="Brasil" height="162" width="150"/>
+</p>
+<p>
+<a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a></p>
+
+</body>
+
+</html>

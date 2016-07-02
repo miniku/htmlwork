@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Computers</title>
+<link type="text/css" rel="stylesheet" href="../styles/style.css" />
+</head>
+
+<body>
+<p><a href="lds/lds.html">Religion</a> | <a href="school/school.html">School</a> | <a href="index.html">Home</a> | <a href="music.html">Music</a> | <a href="portuguese.html">Portuguese</a> | <a href="soccer.html">Soccer</a> | <a href="computers.html">Computers</a>
+</p>
+
+<h1>Computers</h1>
+<p>There are a vast of different types of computers these days.</p>
+<h2>PC's</h2>
+<p>They have a lot of programs and are widely used across the world.</p>
+<h2>Mac's</h2>
+<p>Have less programs but better ones.  Most pc lovers don't like them because they don't have games and that is what they are mainly interested in.  I guess they can stick to their <em>"blue screen of death."</em></p>
+<h3>Linux</h3>
+<p>THe most stable and reliable but harder to use.</p>
+<p><img src="images/computer.jpg" alt="Mac Computer" height="154" width="145"/>
+</p>
+<p>
+<a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a></p>
+
+</body>
+
+</html>

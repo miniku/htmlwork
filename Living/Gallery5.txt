@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Gallery 5</title>
+<link type="text/css" rel="stylesheet" href="../styles/style.css" />
+</head>
+
+<body>
+<p> <a href="../index.html">Home</a>
+</p>
+
+<h1>Gallery 5</h1>
+<p>
+<a href="../Img-pgs/Rio.html"><img src="../Thumbs/riotn.jpg" alt="Rio" height="111" width="150" /></a> <a href="../Img-pgs/pimp.html"><img src="../Thumbs/pimptn.jpg" alt="Pimp" height="162" width="150" /></a> <a href="../Img-pgs/Dadshouse.html"><img src="../Thumbs/dadshousetn.jpg" alt="Dads House" height="158" width="150" /></a>
+</p>
+
+<p><a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a></p>
+</body>
+
+</html>

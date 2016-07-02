@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+<link type="text/css" rel="stylesheet" href="../styles/style.css" />
+</head>
+
+<body>
+<p><a href="lds/lds.html">Religion</a> | <a href="school/school.html">School</a> | <a href="index.html">Home</a> | <a href="music.html">Music</a> | <a href="portuguese.html">Portuguese</a> | <a href="soccer.html">Soccer</a> | <a href="computers.html">Computers</a>
+</p>
+
+<h1>Music</h1>
+<p>Music is a passion acquired over time.  By listening to lots of different types of music you will gain a better understanding of what is good music and what is not.  You will come to find out what type of music you prefer.</p>
+
+<h3>Different types</h3>
+
+<ol>
+<li>Alternative</li>
+<li>Punk</li>
+<li>Rap</li>
+<li>Techno</li>
+<li>Trance</li>
+<li>R and B</li>
+<li>Country</li>
+</ol>
+
+<p><img src="images/music.jpg" alt="Music" height="139" width="113"/>
+</p>
+<p>
+<a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a></p>
+
+</body>
+
+</html>
